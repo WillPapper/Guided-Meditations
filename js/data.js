@@ -110,5 +110,53 @@ $(document).ready(function() {
       $("#option").text(basicTitles[itemNumber]);
       $("#option").attr("href", basicLinks[itemNumber]);
     }
+    if (window.location.pathname.includes("listening")) {
+      var itemNumber = Math.floor(Math.random()*listeningTitles.length);
+      console.log(itemNumber)
+      $("#option").text(listeningTitles[itemNumber]);
+      $("#option").attr("href", listeningLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("acceptance")) {
+      var itemNumber = Math.floor(Math.random()*acceptanceTitles.length);
+      console.log(itemNumber)
+      $("#option").text(acceptanceTitles[itemNumber]);
+      $("#option").attr("href", acceptanceLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("humility")) {
+      var itemNumber = Math.floor(Math.random()*humilityTitles.length);
+      console.log(itemNumber)
+      $("#option").text(humilityTitles[itemNumber]);
+      $("#option").attr("href", humilityLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("gratitude")) {
+      var itemNumber = Math.floor(Math.random()*gratitudeTitles.length);
+      console.log(itemNumber)
+      $("#option").text(gratitudeTitles[itemNumber]);
+      $("#option").attr("href", gratitudeLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("healing")) {
+      var itemNumber = Math.floor(Math.random()*healingTitles.length);
+      console.log(itemNumber)
+      $("#option").text(healingTitles[itemNumber]);
+      $("#option").attr("href", healingLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("loss")) {
+      var itemNumber = Math.floor(Math.random()*lossTitles.length);
+      console.log(itemNumber)
+      $("#option").text(lossTitles[itemNumber]);
+      $("#option").attr("href", lossLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("responsibility")) {
+      var itemNumber = Math.floor(Math.random()*responsibilityTitles.length);
+      console.log(itemNumber)
+      $("#option").text(responsibilityTitles[itemNumber]);
+      $("#option").attr("href", responsibilityLinks[itemNumber]);
+    }
+    if (window.location.pathname.includes("interesting")) {
+      var itemNumber = Math.floor(Math.random()*interestingTitles.length);
+      console.log(itemNumber)
+      $("#option").text(interestingTitles[itemNumber]);
+      $("#option").attr("href", interestingLinks[itemNumber]);
+    }
   }, false);
 });
