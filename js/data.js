@@ -16,26 +16,34 @@ var basicLinks = [
 var listeningTitles = [
   'Meditation To Ease Anxiety, Worry and Urgency',
   'Blissful Deep Relaxation',
+  'Meditation for Sleep and Relaxation',
 ]
 var listeningLinks = [
   'https://www.youtube.com/watch?v=xoYnqvadurg',
   'https://www.youtube.com/watch?v=Jyy0ra2WcQQ',
+  'https://www.youtube.com/watch?v=a8LjxXSxBeA',
 ]
 
 var acceptanceTitles = [
   'Meditation for Working with Difficulties',
   'Meditation To Ease Anxiety, Worry and Urgency',
+  'In Transition - Endings and New Beginnings',
+  'Forgiveness, Releasing Guilt and Letting Go',
 ]
 var acceptanceLinks = [
   'http://marc.ucla.edu/mpeg/04_Meditation_for_Working_with_Difficulties.mp3',
   'https://www.youtube.com/watch?v=xoYnqvadurg',
+  'https://www.youtube.com/watch?v=SzLfO-FC4_c',
+  'https://www.youtube.com/watch?v=v5P7lG-IaIg',
 ]
 
 var humilityTitles = [
   'The Five Minute Miracle',
+  'Forgiveness, Releasing Guilt and Letting Go',
 ]
 var humilityLinks = [
   'https://www.youtube.com/watch?v=utfw-rJUvy4',
+  'https://www.youtube.com/watch?v=v5P7lG-IaIg',
 ]
 
 var gratitudeTitles = [
@@ -49,18 +57,26 @@ var healingTitles = [
   'The Five Minute Miracle',
   'Blissful Deep Relaxation',
   'Healing Spirit',
+  'In Transition - Endings and New Beginnings',
+  'Healing the Body, Mind, and Spirit',
+  'Forgiveness, Releasing Guilt and Letting Go',
 ]
 var healingLinks = [
   'https://www.youtube.com/watch?v=utfw-rJUvy4',
   'https://www.youtube.com/watch?v=Jyy0ra2WcQQ',
   'https://www.youtube.com/watch?v=EIJQsE8C5Is'
+  'https://www.youtube.com/watch?v=SzLfO-FC4_c',
+  'https://www.youtube.com/watch?v=m80rkYbgSwg',
+  'https://www.youtube.com/watch?v=v5P7lG-IaIg',
 ]
 
 var lossTitles = [
-
+  'In Transition - Endings and New Beginnings',
+  'Forgiveness, Releasing Guilt and Letting Go',
 ]
 var lossLinks = [
-
+  'https://www.youtube.com/watch?v=SzLfO-FC4_c',
+  'https://www.youtube.com/watch?v=v5P7lG-IaIg',
 ]
 
 var responsibilityTitles = [
