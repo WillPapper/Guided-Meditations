@@ -1,5 +1,5 @@
 $(document).ready(function() {
   $("#another")[0].addEventListener('click', function() {
-    $("#option").text("Test");
+    $("#option").text("" + Math.random());
   }, false);
 });
