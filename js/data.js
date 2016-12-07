@@ -95,10 +95,12 @@ var responsibilityLinks = [
 ]
 
 var interestingTitles = [
-
+  'Weightless',
+  'A Song of Myself',
 ]
 var interestingLinks = [
-
+  'https://www.youtube.com/watch?v=UfcAVejslrU',
+  'https://www.acast.com/thememorypalace/an-odd-pre-election-bonus-episode-a-full-reading-of-song-of-myself'
 ]
 
 $(document).ready(function() {
