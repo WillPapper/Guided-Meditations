@@ -14,38 +14,46 @@ var basicLinks = [
 ]
 
 var listeningTitles = [
-
+  'Meditation To Ease Anxiety, Worry and Urgency',
+  'Blissful Deep Relaxation',
 ]
 var listeningLinks = [
-
+  'https://www.youtube.com/watch?v=xoYnqvadurg',
+  'https://www.youtube.com/watch?v=Jyy0ra2WcQQ',
 ]
 
 var acceptanceTitles = [
-
+  'Meditation for Working with Difficulties',
+  'Meditation To Ease Anxiety, Worry and Urgency',
 ]
 var acceptanceLinks = [
-
+  'http://marc.ucla.edu/mpeg/04_Meditation_for_Working_with_Difficulties.mp3',
+  'https://www.youtube.com/watch?v=xoYnqvadurg',
 ]
 
 var humilityTitles = [
-
+  'The Five Minute Miracle',
 ]
 var humilityLinks = [
-
+  'https://www.youtube.com/watch?v=utfw-rJUvy4',
 ]
 
 var gratitudeTitles = [
-
+  'The Five Minute Miracle',
 ]
 var gratitudeLinks = [
-
+  'https://www.youtube.com/watch?v=utfw-rJUvy4',
 ]
 
 var healingTitles = [
-
+  'The Five Minute Miracle',
+  'Blissful Deep Relaxation',
+  'Healing Spirit',
 ]
 var healingLinks = [
-
+  'https://www.youtube.com/watch?v=utfw-rJUvy4',
+  'https://www.youtube.com/watch?v=Jyy0ra2WcQQ',
+  'https://www.youtube.com/watch?v=EIJQsE8C5Is'
 ]
 
 var lossTitles = [
@@ -56,10 +64,10 @@ var lossLinks = [
 ]
 
 var responsibilityTitles = [
-
+  'The Five Minute Miracle',
 ]
 var responsibilityLinks = [
-
+  'https://www.youtube.com/watch?v=utfw-rJUvy4',
 ]
 
 var interestingTitles = [
